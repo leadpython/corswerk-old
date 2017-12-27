@@ -1,0 +1,25 @@
+{
+  "name": "corswerk",
+  "version": "0.0.0",
+  "description": "Database for school app.",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leadpython/corswerk.git"
+  },
+  "author": "Jeffrey Campecino (jeffrey.campecino@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leadpython/corswerk/issues"
+  },
+  "homepage": "https://github.com/leadpython/corswerk#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongodb": "^3.0.1",
+    "passport": "^0.4.0",
+    "passport-auth0": "^0.6.0"
+  }
+}
