@@ -1,3 +1,5 @@
 module.exports = {
-  
+  createStudent(data) {
+    
+  }
 };
